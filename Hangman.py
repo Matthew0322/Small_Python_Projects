@@ -1,3 +1,4 @@
+#this is a python code tool to represent the common game of Hangman
 import random
 from words import words
 import string
